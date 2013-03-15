@@ -9,7 +9,7 @@ Install
 Usage
 -------
 ```javascript
-var Api     = require('./../lib/draugiem');
+var Api     = require('draugiem');
 var client  = new Api('appId', 'appKey', 'userKey');
 
 client.dashboard(function(error, data){
