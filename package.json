@@ -1,14 +1,14 @@
 {
     "name": "draugiem",
-    "version": "0.1.0",
-    "description": "Draugiem.lv node.js API (currently on business page) client.",
+    "version": "0.1.1",
+    "description": "Draugiem.lv node.js API (currently only business page) client.",
     "keywords": ["draugiem.lv","draugiem"], 
-    "author": "Aivis Silins",
-    "dependencies": {
-            "oauth": "0.9.8"
-    }, 
+    "author": "Aivis Silins", 
     "repository" : {
             "type": "git",
             "url": "git@github.com:aivis/draugiem.git"
+    },
+    "engines": {
+        "node": ">=0.8"
     }
 }
