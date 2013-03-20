@@ -1,6 +1,6 @@
 {
     "name": "draugiem",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "description": "Draugiem.lv node.js API (currently only business page) client.",
     "keywords": ["draugiem.lv","draugiem"], 
     "author": "Aivis Silins", 
